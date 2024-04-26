@@ -28,7 +28,7 @@ Run the following command to download the required model weights:
 
 python app.py
 
-This will automatically download the necessary model weights to the project directory.
+6. This will automatically download the necessary model weights to the project directory.
 
 ## Usage
 
