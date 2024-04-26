@@ -15,7 +15,14 @@ git clone <https://github.com/BRUNDAVANAMSUREKHA/IMAGE-ENCHANCEMENT>
 
 pip install -r requirements.txt
 
-4. Download model weights:
+4. Also download the required predefined models given below
+
+- GFPGAN v1.2
+- GFPGAN v1.3
+- GFPGAN v1.4
+- RestoreFormer
+                    
+5. Download model weights:
 
 Run the following command to download the required model weights:
 
